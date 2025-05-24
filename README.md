@@ -17,3 +17,28 @@
 - 😄 Pronouns: El/Su, Il/Son, He/His
 <!-- ⚡ Fun fact: ...
 -->
+---
+### GitHub Student Developer Pack ###
+1. LaunchPad
+- [ ] Intro to Copilot
+- [ ] Understanding Markdown
+- [ ] Intro to GitHub
+- [ ] Profile README
+- [ ] LaunchPad
+2. Tools
+- [ ] GitHub Foundations Certification
+- [ ] Intro to Open Source
+- [ ] AI Prompting & Technical Writing
+- [ ] Security and Monitoring
+- [ ] Career Readiness
+- [ ] Intro to Web Dev
+- [ ] Hackathon in the Cloud
+- [ ] Aspiring Creatives
+- [ ] Data Science & Machine Learning
+- [ ] Mobile App Development
+- [ ] Developer Operations
+- [ ] Virtual Event Kit
+3. Primer
+- [ ] Explore GitHub
+- [ ] Primer: Codespaces
+***
