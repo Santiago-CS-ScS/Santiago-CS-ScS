@@ -20,11 +20,11 @@
 ---
 ### GitHub Student Developer Pack ###
 1. LaunchPad
-- [ ] Intro to Copilot
-- [ ] Understanding Markdown
-- [ ] Intro to GitHub
-- [ ] Profile README
-- [ ] LaunchPad
+- [ ] Intro to Copilot <!-- 30 fre trial  -->
+- [X] Understanding Markdown
+- [X] Intro to GitHub
+- [X] Profile README
+- [X] Launchpad: Intro to Javascript <!-- Video guide -->
 2. Tools
 - [ ] GitHub Foundations Certification
 - [ ] Intro to Open Source
@@ -39,6 +39,6 @@
 - [ ] Developer Operations
 - [ ] Virtual Event Kit
 3. Primer
-- [ ] Explore GitHub
-- [ ] Primer: Codespaces
+- [X] Explore GitHub
+- [ ] Primer: Codespaces  <!-- No PC -->
 ***
